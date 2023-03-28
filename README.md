@@ -1,3 +1,3 @@
 # Imersão Java - Alura
 
-:constrution: Imersão em andamento :constrution:
+:construction: Imersão em andamento :construction:
