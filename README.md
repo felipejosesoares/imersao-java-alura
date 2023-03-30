@@ -1,5 +1,4 @@
 # :computer: Imersão Java - Alura
 
-<h4 align="center">
-:construction: Imersão em andamento :construction:
-</h4>
+[Aula 1] (https://github.com/FeliipeJ/imersao-java-alura)
+[Aula 2] (https://github.com/FeliipeJ/imersao-java-alura/tree/aula2)
