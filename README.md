@@ -9,10 +9,5 @@
 * [Aula 5](#)
 
 ## ✔️ Tecnologias Utilizadas
-* `JAVA`
-* `Intellij IDEA`
-* `Spring Framework`
-* `Maven`
-* `MongoDb`
-* `Postman`
+:pushpin: `JAVA`<br> :pushpin: `Intellij IDEA` <br> :pushpin: `Spring Framework` <br> :pushpin: `Maven` <br> :pushpin: `MongoDb` <br> :pushpin: `Postman`
 
